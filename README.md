@@ -1,2 +1,2 @@
 # Repositorio_String
-Estudando sobre strings
+Learning about Strings in Python.
